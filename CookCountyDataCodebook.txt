@@ -59,7 +59,7 @@ Number
 
 
 Central Air
-Is central airconditioning present? - 1 = yes, 2 = no
+Is central air conditioning present? - 1 = yes, 2 = no
 Number
 
 
